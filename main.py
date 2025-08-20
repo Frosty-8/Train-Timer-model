@@ -103,3 +103,5 @@ def train_model(console):
 if __name__ == "__main__":
     console = Console()
     train_model(console)
+
+    
