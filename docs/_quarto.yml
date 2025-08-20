@@ -1,0 +1,17 @@
+project:
+  type: book
+
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    incremental: true
+    embed-resources: true
+    slide-number: true
+    controls: true
+    progress: true
+
+execute:
+  echo: true
+  warning: false
+  error: false
