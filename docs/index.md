@@ -1,8 +1,3 @@
----
-layout: default
-title: Timepass Trainer
----
-
 # Timepass Trainer
 
 A Python project demonstrating logistic regression training using stochastic gradient descent (SGD) with live progress visualization and rich terminal output.
